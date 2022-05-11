@@ -9,9 +9,7 @@ pinned: false
 ---
 
 # Chef Transformer (T5) 
-> This is part of the [Flax/Jax Community Week](https://discuss.huggingface.co/t/recipe-generation-model/7475), organized by [HuggingFace](https://huggingface.co/) and TPU usage sponsored by Google.
-
-Want to give it a try? Then what's the wait, head over to the demo [here](https://share.streamlit.io/chef-transformer/chef-transformer/main/app.py).
+.
 
 
 
