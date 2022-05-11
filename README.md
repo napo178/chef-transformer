@@ -235,8 +235,3 @@ Then follow the steps mentioned in this [contributing guide](CONTRIBUTING.md) an
 
 ## Copyright
 
-Special thanks to those who provided these fantastic materials.
-- [Anatomy](https://www.flaticon.com/free-icon)
-- [Chef Hat](https://www.vecteezy.com/members/jellyfishwater)
-- [Moira Nazzari](https://pixabay.com/photos/food-dessert-cake-eggs-butter-3048440/)
-- [Instagram Post](https://www.freepik.com/free-psd/recipes-ad-social-media-post-template_11520617.htm)
